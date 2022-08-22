@@ -1,1 +1,1 @@
-second sentence
+this is the edited 'second sentence'
